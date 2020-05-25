@@ -1,14 +1,14 @@
-Conversion of JSON to CSV,CSV to JSON and JSON to EXCEL
+**Conversion of JSON to CSV,CSV to JSON and JSON to EXCEL**
 
 
-Install
+**Install**
 You need install some python modules to use this script:
 
 Xlwt:
 pip install xlwt
 
 
-How to run the script
+**How to run the script**
 
 1.Convert JSON to CSV by running script like this
 
